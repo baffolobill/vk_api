@@ -16,4 +16,4 @@ __contact__ = 'https://vk.com/python273'
 from .vk_api import *
 from .vk_upload import *
 from .vk_tools import *
-from .vi_market_upload import *
+from .vk_market_upload import *
